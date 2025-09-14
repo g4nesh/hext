@@ -1,2 +1,3 @@
-# hext
-Cross Tissue Generalization using the LOTO (Leave One Tissue Out) approach on hematoxylin and eosin stained tissue samples.
+# HExt 💪✨
+
+Train and evaluate histology models on STHELAR with a leave-one-tissue-out (LOTO) protocol. Demonstrate that a domain-generalization (DG) approach reduces the performance collapse on unseen organs compared to a baseline (CellViT/ViT/UNet).
